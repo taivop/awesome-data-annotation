@@ -14,7 +14,9 @@ A list of tools for annotating data, managing annotations, etc.
 * [brat](http://brat.nlplab.org/) -- text
 * [commacoloring](https://github.com/commaai/commacoloring) -- image (segmentation)
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
+* [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
 * [labelme](https://github.com/wkentaro/labelme) -- image/video (classification, polygon, geometric shapes)
+* [LabelD](https://sweppner.github.io/labeld/) -- (web) image
 * [LEAR](https://lear.inrialpes.fr/people/klaeser/software_image_annotation) -- image (segmentation)
 * [Sloth](https://sloth.readthedocs.io/en/latest/) -- image/video (geometric shapes)
 * [VATIC](http://www.cs.columbia.edu/~vondrick/vatic/), [VATIC.js](https://github.com/dbolkensteyn/vatic.js) -- video (tracking)
