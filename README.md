@@ -16,6 +16,7 @@ A list of tools for annotating data, managing annotations, etc.
 * [commacoloring](https://github.com/commaai/commacoloring) -- image (segmentation)
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video (segmentation, geometric shapes, keypoints)
 * [doccano](https://github.com/chakki-works/doccano) -- text (NER, sentiment, translation)
+* [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat) -- text
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
