@@ -4,7 +4,7 @@ A list of tools for annotating data, managing annotations, etc.
 ## Annotation tools
 ### Commercial
 * [DataTurks](https://dataturks.com/) -- image, text
-* [Labelbox](https://www.labelbox.com/pricing) -- image
+* [Labelbox](https://www.labelbox.com/) -- image
 * [Prodigy](https://prodi.gy/) -- text (entity recognition, intent detection), image (classification)
 * [RectLabel](https://rectlabel.com/) -- image (bounding box, polygon, cubic bezier)
 * [Supervisely](https://supervise.ly/) -- image/video
