@@ -7,6 +7,7 @@ A list of tools for annotating data, managing annotations, etc.
 * [Labelbox](https://www.labelbox.com/pricing) -- image
 * [Prodigy](https://prodi.gy/) -- text (entity recognition, intent detection), image (classification)
 * [RectLabel](https://rectlabel.com/) -- image (bounding box, polygon, cubic bezier)
+* [Supervisely](https://supervise.ly/) -- image/video
 * [TagTog](https://www.tagtog.net/) -- text
 
 ### Open source
