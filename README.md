@@ -17,6 +17,7 @@ A list of tools for annotating data, managing annotations, etc.
 * [brat](http://brat.nlplab.org/) -- text
 * [commacoloring](https://github.com/commaai/commacoloring) -- image (segmentation)
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video (segmentation, geometric shapes, keypoints)
+* [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
 * [doccano](https://github.com/chakki-works/doccano) -- text (NER, sentiment, translation)
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
