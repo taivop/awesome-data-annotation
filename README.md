@@ -29,7 +29,9 @@ A list of tools for annotating data, managing annotations, etc.
 
 ### Commercial
 * [DataTurks](https://dataturks.com/)
+* [Figure Eight](https://www.figure-eight.com/)
 * [Labelbox](https://www.labelbox.com/)
+* [Mighty AI](https://mighty.ai/)
 * [Prodigy](https://prodi.gy/) -- image classification
 * [RectLabel](https://rectlabel.com/) -- bounding box, polygon, cubic bezier
 * [Supervisely](https://supervise.ly/)
@@ -43,6 +45,7 @@ A list of tools for annotating data, managing annotations, etc.
 
 ### Commercial
 * [DataTurks](https://dataturks.com/)
+* [Figure Eight](https://www.figure-eight.com/)
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
 
