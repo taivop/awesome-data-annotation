@@ -30,6 +30,7 @@ A list of tools for annotating data, managing annotations, etc.
 ### Commercial
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
+* [Handl](https://handl.ai/?ref=producthunt)
 * [Labelbox](https://www.labelbox.com/)
 * [Mighty AI](https://mighty.ai/)
 * [Prodigy](https://prodi.gy/) -- image classification
