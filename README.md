@@ -1,6 +1,8 @@
 # Awesome data annotation
 A list of tools for annotating data, managing annotations, etc.
 
+Contributing: I gladly accept additions to the lists below; please submit an issue or pull request with any updates.
+
 # Annotation tools
 
 
