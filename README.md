@@ -18,8 +18,10 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
 * [INCEpTION](https://github.com/inception-project/inception) -- text
 * [labelme](https://github.com/wkentaro/labelme) -- image/video (classification, polygon, geometric shapes)
+* [labelml](https://github.com/bfortuner/labelml) -- image
 * [LabelD](https://sweppner.github.io/labeld/) -- (web) image
 * [LEAR](https://lear.inrialpes.fr/people/klaeser/software_image_annotation) -- image segmentation
+* [LOST](https://github.com/l3p-cv/lost)
 * [Microsoft VoTT](https://github.com/Microsoft/VoTT) -- image/video (geometric shapes)
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) -- image segmentation
 * [react-image-annotation](https://github.com/Secretmapper/react-image-annotation) -- image (geometric shapes)
@@ -44,6 +46,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [WebAnno](https://webanno.github.io/webanno/)
+* [YEDDA](https://github.com/jiesutd/YEDDA)
 
 ### Commercial
 * [DataTurks](https://dataturks.com/)
@@ -55,3 +58,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 ### Open source
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
 * [Dumbris/trunklucator](https://github.com/Dumbris/trunklucator) -- interactive annotation from Python code
+* [open-CRAVAT](https://github.com/KarchinLab/open-cravat) -- genomics
+* [PCGR](https://github.com/sigven/pcgr) -- genomics
+* [springzfx/point-clooud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) -- 3D pointclouds
