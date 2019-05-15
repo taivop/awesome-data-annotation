@@ -5,7 +5,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 
 # Annotation tools
 
-
 ## Image / video
 ### Open source
 * [Alp's labeling tool (ALT)](https://alpslabel.wordpress.com/2017/01/26/alt/) -- image
@@ -55,3 +54,4 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 ## Other
 ### Open source
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
+* [Dumbris/trunklucator](https://github.com/Dumbris/trunklucator) -- interactive annotation from Python code
