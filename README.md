@@ -4,7 +4,6 @@ A list of tools for annotating data, managing annotations, etc.
 Contributing: I gladly accept additions to the lists below; please submit an issue or pull request with any updates.
 
 # Annotation tools
-
 ## Image / video
 ### Open source
 * [Alp's labeling tool (ALT)](https://alpslabel.wordpress.com/2017/01/26/alt/) -- image
@@ -54,10 +53,16 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
 
+## Multimodal / pointcloud
+### Open source
+* [3D-BAT](https://github.com/walzimmer/3d-bat) ([paper](https://arxiv.org/abs/1905.00525v1)) -- multimodal (image, pointcloud)
+* [LATTE](https://github.com/bernwang/latte) -- pointcloud
+* [springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) -- pointcloud
+
 ## Other
 ### Open source
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
 * [Dumbris/trunklucator](https://github.com/Dumbris/trunklucator) -- interactive annotation from Python code
 * [open-CRAVAT](https://github.com/KarchinLab/open-cravat) -- genomics
 * [PCGR](https://github.com/sigven/pcgr) -- genomics
-* [springzfx/point-clooud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) -- 3D pointclouds
+
