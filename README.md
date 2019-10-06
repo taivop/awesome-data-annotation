@@ -3,6 +3,8 @@ A list of tools for annotating data, managing annotations, etc.
 
 Contributing: I gladly accept additions to the lists below; please submit an issue or pull request with any updates.
 
+***Just looking for a recommendation of the one best open source annotation tool?*** Me and several other people in industry and academia have independently found [**CVAT**](https://github.com/opencv/cvat) to be the best choice for Computer Vision tasks.
+
 # Annotation tools
 ## Image / video
 ### Open source
