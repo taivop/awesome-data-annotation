@@ -17,6 +17,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
+* [imagetagger](https://github.com/bit-bots/imagetagger) -- image; supports collaborative labelling
 * [INCEpTION](https://github.com/inception-project/inception) -- text
 * [labelme](https://github.com/wkentaro/labelme) -- image/video (classification, polygon, geometric shapes)
 * [labelml](https://github.com/bfortuner/labelml) -- image
