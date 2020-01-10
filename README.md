@@ -76,3 +76,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [PCGR](https://github.com/sigven/pcgr) -- genomics
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 
+# Related lists
+[awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools)
+
