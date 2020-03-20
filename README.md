@@ -29,6 +29,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Microsoft VoTT](https://github.com/Microsoft/VoTT) -- image/video (geometric shapes)
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) -- image segmentation
 * [react-image-annotation](https://github.com/Secretmapper/react-image-annotation) -- image (geometric shapes)
+* [scalabel](https://github.com/scalabel/scalabel) -- image (bbox, tracking, segmentation), 3D 
 * [Sloth](https://sloth.readthedocs.io/en/latest/) -- image/video (geometric shapes)
 * [VATIC](http://www.cs.columbia.edu/~vondrick/vatic/), [VATIC.js](https://github.com/dbolkensteyn/vatic.js) -- video tracking
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) -- image (polygons, geometric shapes)
