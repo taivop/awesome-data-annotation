@@ -47,7 +47,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Mighty AI](https://mighty.ai/)
 * [Oclavi](https://oclavi.com/)
 * [Prodigy](https://prodi.gy/) -- image classification
-* [RectLabel](https://rectlabel.com/) -- bounding box, polygon, cubic bezier
+* [RectLabel](https://rectlabel.com/) -- classification, bounding box, polygon, cubic bezier
 * [Supervisely](https://supervise.ly/)
 
 ## Text
