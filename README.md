@@ -31,6 +31,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [react-image-annotation](https://github.com/Secretmapper/react-image-annotation) -- image (geometric shapes)
 * [scalabel](https://github.com/scalabel/scalabel) -- image (bbox, tracking, segmentation), 3D 
 * [Sloth](https://sloth.readthedocs.io/en/latest/) -- image/video (geometric shapes)
+* [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [VATIC](http://www.cs.columbia.edu/~vondrick/vatic/), [VATIC.js](https://github.com/dbolkensteyn/vatic.js) -- video tracking
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) -- image (polygons, geometric shapes)
 * [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) -- video (classification, temporal segmentation, tracking)
@@ -56,6 +57,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
+* [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [WebAnno](https://webanno.github.io/webanno/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
 
@@ -78,6 +80,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [open-CRAVAT](https://github.com/KarchinLab/open-cravat) -- genomics
 * [PCGR](https://github.com/sigven/pcgr) -- genomics
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
+* [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 
 # Related lists
 [awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools)
