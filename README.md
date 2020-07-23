@@ -40,6 +40,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
 * [Handl](https://handl.ai/)
+* [Kili](https://kili-technology.com/)
 * [Labelbox](https://www.labelbox.com/)
 * [LinkedAI](https://linkedai.co/)
 * [Mighty AI](https://mighty.ai/)
@@ -50,6 +51,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 
 ## Text
 ### Open source
+* [Banksy](https://github.com/AboutGoods/Banksy-annotation-tool) -- NER, NEL, box
 * [brat](http://brat.nlplab.org/)
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
