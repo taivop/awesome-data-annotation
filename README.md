@@ -73,6 +73,10 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [LATTE](https://github.com/bernwang/latte) -- pointcloud
 * [springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) -- pointcloud
 
+## Components
+UI and other components that can be integrated into other applications.
+* [react-image-annotate](https://github.com/waoai/react-image-annotate) -- React component for bounding boxes, points, and polygons
+
 ## Other
 ### Open source
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
