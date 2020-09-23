@@ -20,6 +20,8 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
 * [imagetagger](https://github.com/bit-bots/imagetagger) -- image; supports collaborative labelling
 * [INCEpTION](https://github.com/inception-project/inception) -- text
+* [Labelai](https://github.com/aralroca/labelai) -- image
+* [LabelImg](https://github.com/tzutalin/labelImg) -- image
 * [labelme](https://github.com/wkentaro/labelme) -- image/video (classification, polygon, geometric shapes)
 * [labelml](https://github.com/bfortuner/labelml) -- image
 * [LabelD](https://sweppner.github.io/labeld/) -- (web) image
