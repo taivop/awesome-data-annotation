@@ -39,7 +39,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) -- video (classification, temporal segmentation, tracking)
 
 ### Commercial
-* [TrainingSet.AI Image and Lidar annotation platform](https://dashboard.trainingset.ai)
 * [Amazon Sagemaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/)
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
@@ -53,6 +52,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [RectLabel](https://rectlabel.com/) -- classification, bounding box, polygon, cubic bezier
 * [SuperAnnotate](https://www.superannotate.com/)
 * [Supervisely](https://supervise.ly/)
+* [TrainingSet.ai](https://dashboard.trainingset.ai)
 
 ## Text
 ### Open source
