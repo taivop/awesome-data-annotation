@@ -9,7 +9,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 ## Image / video
 ### Open source
 * [Alp's labeling tool (ALT)](https://alpslabel.wordpress.com/2017/01/26/alt/) -- image
-* [Annotorious](https://annotorious.github.io/)
+* [Annotorious](https://recogito.github.io/annotorious/)
 * [boobs](https://github.com/drainingsun/boobs) -- image (rectangle)
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
