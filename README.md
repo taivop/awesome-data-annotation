@@ -50,6 +50,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Oclavi](https://oclavi.com/)
 * [Prodigy](https://prodi.gy/) -- image classification
 * [RectLabel](https://rectlabel.com/) -- classification, bounding box, polygon, cubic bezier
+* [SuperAnnotate](https://www.superannotate.com/)
 * [Supervisely](https://supervise.ly/)
 
 ## Text
@@ -66,6 +67,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 ### Commercial
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
+* [LightTag](https://www.lighttag.io/)
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
 
