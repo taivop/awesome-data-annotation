@@ -16,13 +16,13 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video
+* [Etiketai](https://github.com/aralroca/etiketai) -- image
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
 * [ilastik](https://github.com/ilastik/ilastik) -- image
 * [imannotate](https://github.com/smileinnovation/imannotate) -- image
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
 * [imagetagger](https://github.com/bit-bots/imagetagger) -- image; supports collaborative labelling
 * [INCEpTION](https://github.com/inception-project/inception) -- text
-* [Labelai](https://github.com/aralroca/labelai) -- image
 * [LabelImg](https://github.com/tzutalin/labelImg) -- image
 * [labelme](https://github.com/wkentaro/labelme) -- image/video (classification, polygon, geometric shapes)
 * [labelml](https://github.com/bfortuner/labelml) -- image
