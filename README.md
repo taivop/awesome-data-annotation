@@ -72,6 +72,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [LightTag](https://www.lighttag.io/)
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
+* [UBIAI](https://ubiai.tools/)
 
 ## Multimodal / pointcloud
 ### Open source
