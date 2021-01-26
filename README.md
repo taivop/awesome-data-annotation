@@ -11,6 +11,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Alp's labeling tool (ALT)](https://alpslabel.wordpress.com/2017/01/26/alt/) -- image
 * [Annotorious](https://recogito.github.io/annotorious/)
 * [boobs](https://github.com/drainingsun/boobs) -- image (rectangle)
+* [COCO Annotator](https://github.com/jsbroks/coco-annotator) -- image
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
