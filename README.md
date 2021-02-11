@@ -74,6 +74,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
 * [UBIAI](https://ubiai.tools/)
+* [Kairntech](https://kairntech.com/) -- NER, classification, sentiment, knowledge-based
 
 ## Multimodal / pointcloud
 ### Open source
