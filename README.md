@@ -31,6 +31,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [LEAR](https://lear.inrialpes.fr/people/klaeser/software_image_annotation) -- image segmentation
 * [LOST](https://github.com/l3p-cv/lost)
 * [Microsoft VoTT](https://github.com/Microsoft/VoTT) -- image/video (geometric shapes)
+* [Pixano](https://pixano.cea.fr/) -- image/sequence (rectangle, polygon, polyline, keypoints, segmentation)
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) -- image segmentation
 * [react-image-annotation](https://github.com/Secretmapper/react-image-annotation) -- image (geometric shapes)
 * [scalabel](https://github.com/scalabel/scalabel) -- image (bbox, tracking, segmentation), 3D 
@@ -80,10 +81,12 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 ### Open source
 * [3D-BAT](https://github.com/walzimmer/3d-bat) ([paper](https://arxiv.org/abs/1905.00525v1)) -- multimodal (image, pointcloud)
 * [LATTE](https://github.com/bernwang/latte) -- pointcloud
+* [Pixano](https://pixano.cea.fr/) -- multimodal (image, pointcloud)
 * [springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) -- pointcloud
 
 ## Components
 UI and other components that can be integrated into other applications.
+* [Pixano](https://github.com/pixano/pixano-elements/) -- Javascript annotation components for geometric shapes in image and pointcloud
 * [react-image-annotate](https://github.com/waoai/react-image-annotate) -- React component for bounding boxes, points, and polygons
 
 ## Other
