@@ -76,6 +76,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
 * [UBIAI](https://ubiai.tools/)
+* [AnnoLab](https://annolab.ai/)
 
 ## Multimodal / pointcloud
 ### Open source
