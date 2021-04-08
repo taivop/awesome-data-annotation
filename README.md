@@ -69,6 +69,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [YEDDA](https://github.com/jiesutd/YEDDA)
 
 ### Commercial
+* [AnnoLab](https://annolab.ai/)
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
 * [Kairntech](https://kairntech.com/) -- NER, classification, sentiment, knowledge-based
@@ -76,7 +77,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
 * [TagTog](https://www.tagtog.net/)
 * [UBIAI](https://ubiai.tools/)
-* [AnnoLab](https://annolab.ai/)
 
 ## Multimodal / pointcloud
 ### Open source
