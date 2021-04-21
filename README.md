@@ -15,6 +15,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
+* [diffgram](https://github.com/diffgram/diffgram) -- image, video, text, data platform
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video
 * [Etiketai](https://github.com/aralroca/etiketai) -- image
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
