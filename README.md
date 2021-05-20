@@ -56,6 +56,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [SuperAnnotate](https://www.superannotate.com/)
 * [Supervisely](https://supervise.ly/)
 * [TrainingSet.ai](https://dashboard.trainingset.ai)
+* [Google AI Platform Data Labeling Service](https://cloud.google.com/ai-platform/data-labeling/docs)
 
 ## Text
 ### Open source
