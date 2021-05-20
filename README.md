@@ -46,6 +46,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Amazon Sagemaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/)
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
+* [Google AI Platform Data Labeling Service](https://cloud.google.com/ai-platform/data-labeling/docs)
 * [Handl](https://handl.ai/)
 * [Kili](https://kili-technology.com/)
 * [Labelbox](https://www.labelbox.com/)
@@ -56,7 +57,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [SuperAnnotate](https://www.superannotate.com/)
 * [Supervisely](https://supervise.ly/)
 * [TrainingSet.ai](https://dashboard.trainingset.ai)
-* [Google AI Platform Data Labeling Service](https://cloud.google.com/ai-platform/data-labeling/docs)
 
 ## Text
 ### Open source
