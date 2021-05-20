@@ -50,7 +50,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Kili](https://kili-technology.com/)
 * [Labelbox](https://www.labelbox.com/)
 * [LinkedAI](https://linkedai.co/)
-* [Mighty AI](https://mighty.ai/)
 * [Oclavi](https://oclavi.com/)
 * [Prodigy](https://prodi.gy/) -- image classification
 * [RectLabel](https://rectlabel.com/) -- classification, bounding box, polygon, cubic bezier
