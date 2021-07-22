@@ -11,6 +11,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Alp's labeling tool (ALT)](https://alpslabel.wordpress.com/2017/01/26/alt/) -- image
 * [Annotorious](https://recogito.github.io/annotorious/)
 * [boobs](https://github.com/drainingsun/boobs) -- image (rectangle)
+* [Classifai](https://github.com/CertifaiAI/classifai)
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) -- image
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
@@ -65,6 +66,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [brat](http://brat.nlplab.org/)
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
+* [Hover](https://github.com/phurwicz/hover)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [Rubrix](https://github.com/recognai/rubrix) -- text
 * [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
