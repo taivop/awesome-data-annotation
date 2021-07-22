@@ -66,6 +66,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
+* [Rubrix](https://github.com/recognai/rubrix) -- text
 * [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [WebAnno](https://webanno.github.io/webanno/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
