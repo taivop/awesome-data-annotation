@@ -20,6 +20,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video
 * [Etiketai](https://github.com/aralroca/etiketai) -- image
 * [Fast Image Annotation Tool (FIAT)](https://github.com/christopher5106/FastAnnotationTool) - image (rectangle)
+* [Grid-Annotation-Tool](https://github.com/LukasBommes/Grid-Annotation-Tool) -- image (rectangle grids)
 * [ilastik](https://github.com/ilastik/ilastik) -- image
 * [imannotate](https://github.com/smileinnovation/imannotate) -- image
 * [imglab](https://github.com/NaturalIntelligence/imglab) -- image (geometric shapes)
@@ -43,7 +44,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [VATIC](http://www.cs.columbia.edu/~vondrick/vatic/), [VATIC.js](https://github.com/dbolkensteyn/vatic.js) -- video tracking
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) -- image (polygons, geometric shapes)
 * [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) -- video (classification, temporal segmentation, tracking)
-* [Grid-Annotation-Tool](https://github.com/LukasBommes/Grid-Annotation-Tool) -- image (rectangle grids)
 
 ### Commercial
 * [Amazon Sagemaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/)
