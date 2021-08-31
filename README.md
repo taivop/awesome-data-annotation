@@ -43,6 +43,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [VATIC](http://www.cs.columbia.edu/~vondrick/vatic/), [VATIC.js](https://github.com/dbolkensteyn/vatic.js) -- video tracking
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) -- image (polygons, geometric shapes)
 * [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) -- video (classification, temporal segmentation, tracking)
+* [Grid-Annotation-Tool](https://github.com/LukasBommes/Grid-Annotation-Tool) -- image (rectangle grids)
 
 ### Commercial
 * [Amazon Sagemaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/)
