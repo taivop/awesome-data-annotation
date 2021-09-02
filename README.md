@@ -70,6 +70,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Hover](https://github.com/phurwicz/hover)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [Rubrix](https://github.com/recognai/rubrix) -- text
+* [TeamTat](https://github.com/ncbi-nlp/TeamTat)
 * [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [WebAnno](https://webanno.github.io/webanno/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
