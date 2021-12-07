@@ -47,6 +47,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 
 ### Commercial
 * [Amazon Sagemaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/)
+* [Cord](https://cord.tech/)
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
 * [Google AI Platform Data Labeling Service](https://cloud.google.com/ai-platform/data-labeling/docs)
@@ -80,6 +81,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [AnnoLab](https://annolab.ai/)
 * [DataTurks](https://dataturks.com/)
 * [Figure Eight](https://www.figure-eight.com/)
+* [Humanloop](https://humanloop.com/)
 * [Kairntech](https://kairntech.com/) -- NER, classification, sentiment, knowledge-based
 * [LightTag](https://www.lighttag.io/)
 * [Prodigy](https://prodi.gy/) -- entity recognition, intent detection
