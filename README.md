@@ -104,11 +104,11 @@ UI and other components that can be integrated into other applications.
 ### Open source
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video, audio, rosbag
 * [Dumbris/trunklucator](https://github.com/Dumbris/trunklucator) -- interactive annotation from Python code
+* [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [open-CRAVAT](https://github.com/KarchinLab/open-cravat) -- genomics
 * [PCGR](https://github.com/sigven/pcgr) -- genomics
-* [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
-* [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [TornadoAI HITL](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado) -- Web based collaborative human in the loop data labelling tool for  image, text and structured data
+* [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 
 # Related lists
 [awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools)
