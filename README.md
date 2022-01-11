@@ -14,6 +14,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) -- image
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
 * [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
+* [DataGym.ai](https://github.com/datagym-ai/datagym-core) -- image/video
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
 * [diffgram](https://github.com/diffgram/diffgram) -- image, video, text, data platform
 * [dsgou/annotator](https://github.com/dsgou/annotator) -- video
