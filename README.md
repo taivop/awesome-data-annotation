@@ -68,6 +68,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Banksy](https://github.com/AboutGoods/Banksy-annotation-tool) -- NER, NEL, box
 * [brat](http://brat.nlplab.org/)
 * [DataQA](https://github.com/dataqa/dataqa) - classification, NER, NEL
+* [DAML](https://github.com/vmware/data-annotator-for-machine-learning)
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Hover](https://github.com/phurwicz/hover)
@@ -77,7 +78,6 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [WebAnno](https://webanno.github.io/webanno/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
-* [DAML](https://github.com/vmware/data-annotator-for-machine-learning)
 
 ### Commercial
 * [AnnoLab](https://annolab.ai/)
