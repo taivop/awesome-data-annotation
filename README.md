@@ -68,12 +68,13 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Banksy](https://github.com/AboutGoods/Banksy-annotation-tool) -- NER, NEL, box
 * [brat](http://brat.nlplab.org/)
 * [DataQA](https://github.com/dataqa/dataqa) - classification, NER, NEL
-* [DAML](https://github.com/vmware/data-annotator-for-machine-learning)
+* [DAML](https://github.com/vmware/data-annotator-for-machine-learning) -- Data Annotator for Machine Learning (DAML) with Active Learning feature includes Text classification, NER, Tabular classification and regresion,  Images recognition with bounding boxes and polygons, Log labeling.
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Hover](https://github.com/phurwicz/hover)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [Rubrix](https://github.com/recognai/rubrix) -- text
+* [spacy-annotator](https://github.com/ieriii/spacy-annotator) -- SpaCy annotator for NER using ipywidgets.
 * [TeamTat](https://github.com/ncbi-nlp/TeamTat)
 * [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) -- image, video, PDF, text, audio
 * [WebAnno](https://webanno.github.io/webanno/)
