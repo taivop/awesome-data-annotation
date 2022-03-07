@@ -69,7 +69,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Banksy](https://github.com/AboutGoods/Banksy-annotation-tool) -- NER, NEL, box
 * [brat](http://brat.nlplab.org/)
 * [DataQA](https://github.com/dataqa/dataqa) - classification, NER, NEL
-* [DAML](https://github.com/vmware/data-annotator-for-machine-learning) -- Data Annotator for Machine Learning (DAML) with Active Learning feature includes Text classification, NER, Tabular classification and regresion,  Images recognition with bounding boxes and polygons, Log labeling.
+* [DAML](https://github.com/vmware/data-annotator-for-machine-learning) -- Data Annotator for Machine Learning (DAML) -- text classification, NER, tabular classification and regression, image (bounding box, polygon), log labelling
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Hover](https://github.com/phurwicz/hover)
