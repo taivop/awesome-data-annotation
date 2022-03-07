@@ -44,6 +44,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [VATIC](http://www.cs.columbia.edu/~vondrick/vatic/), [VATIC.js](https://github.com/dbolkensteyn/vatic.js) -- video tracking
 * [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) -- image (polygons, geometric shapes)
 * [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) -- video (classification, temporal segmentation, tracking)
+* [webKnossos](https://webknossos.org) -- 3D image (segmentation, skeleton aka line-segment)
 * [Ybat - YOLO BBox Annotation Tool](https://github.com/drainingsun/ybat) -- image (rectangle)
 
 ### Commercial
