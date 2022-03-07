@@ -48,8 +48,8 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 
 ### Commercial
 * [Amazon Sagemaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/)
-* [Cord](https://cord.tech/)
 * [DataTurks](https://dataturks.com/)
+* [Encord](https://encord.com/) -- image/sequence/video, 3D DICOM (CT, MRI), synthetic-aperture radar, annotator performance monitoring, model-assisted labelling, model validation
 * [Figure Eight](https://www.figure-eight.com/)
 * [Google AI Platform Data Labeling Service](https://cloud.google.com/ai-platform/data-labeling/docs)
 * [Handl](https://handl.ai/)
