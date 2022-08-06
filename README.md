@@ -3,7 +3,7 @@ A list of tools for annotating data, managing annotations, etc.
 
 Contributing: I gladly accept additions to the lists below; please submit an issue or pull request with any updates.
 
-***Just looking for a recommendation of the one best open source annotation tool?*** Me and several other people in industry and academia have independently found [**CVAT**](https://github.com/opencv/cvat) to be the best choice for Computer Vision tasks.
+***Just looking for a recommendation of the one best open source annotation tool?*** Me and several other people in industry and academia have independently found [**CVAT**](https://github.com/cvat-ai/cvat) to be the best choice for Computer Vision tasks.
 
 # Annotation tools
 ## Image / video
@@ -13,7 +13,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Classifai](https://github.com/CertifaiAI/classifai)
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) -- image
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
-* [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat) -- image/video segmentation, geometric shapes, keypoints
+* [Computer Vision Annotation Tool (CVAT)](https://github.com/cvat-ai/cvat) -- image/video segmentation, geometric shapes, keypoints
 * [DataGym.ai](https://github.com/datagym-ai/datagym-core) -- image/video
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) -- image
 * [diffgram](https://github.com/diffgram/diffgram) -- image, video, text, data platform
