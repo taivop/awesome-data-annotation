@@ -73,6 +73,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [DataQA](https://github.com/dataqa/dataqa) - classification, NER, NEL
 * [DAML](https://github.com/vmware/data-annotator-for-machine-learning) -- Data Annotator for Machine Learning (DAML) -- text classification, NER, tabular classification and regression, image (bounding box, polygon), log labelling
 * [doccano](https://github.com/chakki-works/doccano) -- NER, sentiment, translation
+* [factgenie](https://github.com/kasnerz/factgenie) -- token-level annotations from crowdworkers and LLMs
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Hover](https://github.com/phurwicz/hover)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
