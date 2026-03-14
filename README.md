@@ -76,6 +76,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [FoLiA Linguisitc Annotation Tool (Flat)](https://github.com/proycon/flat)
 * [Hover](https://github.com/phurwicz/hover)
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
+* [Potato](https://github.com/davidjurgens/potato) -- text, image, audio, video; 21+ annotation types (NER/span, classification, coreference, entity linking, agent trace evaluation); built-in quality control; AI-assisted labeling; 300+ clonable example tasks
 * [Rubrix](https://github.com/recognai/rubrix) -- text
 * [spacy-annotator](https://github.com/ieriii/spacy-annotator) -- SpaCy annotator for NER using ipywidgets.
 * [TeamTat](https://github.com/ncbi-nlp/TeamTat)
@@ -100,6 +101,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [3D-BAT](https://github.com/walzimmer/3d-bat) ([paper](https://arxiv.org/abs/1905.00525v1)) -- multimodal (image, pointcloud)
 * [LATTE](https://github.com/bernwang/latte) -- pointcloud
 * [Pixano](https://pixano.cea.fr/) -- multimodal (image, pointcloud)
+* [Potato](https://github.com/davidjurgens/potato) -- text, image, audio, video annotation with 21+ schema types, AI-assisted labeling, agent trace evaluation, and built-in quality control
 * [springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) -- pointcloud
 
 ## Components
