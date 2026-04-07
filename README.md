@@ -32,6 +32,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [LabelD](https://sweppner.github.io/labeld/) -- (web) image
 * [Label Studio](https://github.com/heartexlabs/label-studio) -- image, audio, text
 * [LEAR](https://lear.inrialpes.fr/people/klaeser/software_image_annotation) -- image segmentation
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) -- image/video (curation, bounding boxes, segmentation, captions, auto-labeling)
 * [LOST](https://github.com/l3p-cv/lost)
 * [Microsoft VoTT](https://github.com/Microsoft/VoTT) -- image/video (geometric shapes)
 * [Pixano](https://pixano.cea.fr/) -- image/sequence (rectangle, polygon, polyline, keypoints, segmentation)
