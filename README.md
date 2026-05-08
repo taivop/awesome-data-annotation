@@ -59,6 +59,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 * [Kili](https://kili-technology.com/)
 * [Labelbox](https://www.labelbox.com/)
 * [LinkedAI](https://linkedai.co/)
+* [MoniSa Enterprise](https://www.monisaenterprise.com) - Multilingual AI training data, annotation, and language services across 300+ languages. ISO 9001/27001/17100 certified.
 * [Oclavi](https://oclavi.com/)
 * [Prodigy](https://prodi.gy/) -- image classification
 * [RectLabel](https://rectlabel.com/) -- classification, bounding box, polygon, cubic bezier
