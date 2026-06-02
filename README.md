@@ -10,6 +10,7 @@ Contributing: I gladly accept additions to the lists below; please submit an iss
 ### Open source
 * [Alp's labeling tool (ALT)](https://alpslabel.wordpress.com/2017/01/26/alt/) -- image
 * [Annotorious](https://recogito.github.io/annotorious/)
+* [BIIGLE](https://github.com/biigle/biigle)  -- image, video
 * [Classifai](https://github.com/CertifaiAI/classifai)
 * [COCO Annotator](https://github.com/jsbroks/coco-annotator) -- image
 * [commacoloring](https://github.com/commaai/commacoloring) -- image segmentation
